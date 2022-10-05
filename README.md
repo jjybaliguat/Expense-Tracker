@@ -12,4 +12,4 @@
 
 
 ## Project Demo
-<a href="[https://travis-ci.org/laravel/framework](https://cam2netict.net/expense-tracker/)" target="blank">Live Demo</a>
+<a href="[https://travis-ci.org/laravel/framework](https://cam2netict.net/expense-tracker/)">Live Demo</a>

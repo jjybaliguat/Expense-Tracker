@@ -12,4 +12,4 @@
 
 
 ## Project Demo
-[Live Demo](https://cam2netict.net/expense-tracker/)
+[Live Demo](https://cam2netict.net/expense-tracker)

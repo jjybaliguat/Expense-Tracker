@@ -1,5 +1,5 @@
 # Expense-Tracker with Login and Registration.
- * This is my first project using PHP Laravel Framework
+ * This is my first project * using PHP Laravel Framework
  
 ## 
  

@@ -6,6 +6,7 @@
 * beatiful responsive UI using bootstrap 5
 * add income or expense using bootsrap modal
 * with automatic tithes of 10% deduction every income added.
+* Transaction History
 * edit/delete transactions
 * adding transactions without page reload using jquery ajax.
  
